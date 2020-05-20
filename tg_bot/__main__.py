@@ -34,6 +34,7 @@ I am a group management bot With Some Special Features and supported with Advanc
 To add me to your group click ["HERE"](t.me/SherryRobot?startgroup=botstart)
 You can find my list of available commands with /help.
  
+See [Basic Configuration Checklist](https://t.me/SherryRobotNews/11) on how to secure your group.
 Join our Support Group @SherrySupportChat. 
 Our support Channel @SherryRobotNews
 
