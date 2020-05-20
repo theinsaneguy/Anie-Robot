@@ -30,11 +30,12 @@ PM_START_TEXT = """
 
 Hello    {}, My Name Is {} !
 
-I am a group management bot With Some Special Features.
+I am a group management bot With Some Special Features and supported with Advance AI .
 To add me to your group click ["HERE"](t.me/SherryRobot?startgroup=botstart)
 You can find my list of available commands with /help.
  
-The support group chat is at @SherrySupportChat. Support Channel @SherryRobotNews
+Join our Support Group @SherrySupportChat. 
+Our support Channel @SherryRobotNews
 
 
 """
