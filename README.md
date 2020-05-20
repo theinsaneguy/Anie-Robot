@@ -12,5 +12,5 @@ The Support group can be reached out to at [Support](https://t.me/SherrySupportC
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theinsaneguy/Anie-Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theinsaneguy-patch-3/Anie-Robot)
 
