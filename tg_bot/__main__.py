@@ -28,15 +28,20 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hello    {}, My Name Is {} !
+Hello {}, MY NAME IS {} !
 
-I am a group management bot With Some Special Features.
-To add me to your group click ["HERE"](t.me/Aniebot?startgroup=botstart)
-You can find my list of available commands with /help.
- 
-See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
-The support group chat is at @AnieSupport. Support Channel @AnieNews
+I'm here to help you manage your groups more efficiently with many features! 
+Hit /help to find out more about how to use me to my full potential.
 
+Want to add me to your chat? Click here! 
+I am owned and managed by my
+[MASTER](tg://user?id={1111077834}).
+
+For Aries's Repo click [HERE](https://github.com/theinsaneguy/phantom)
+See [Basic Configuration Checklist](t.me/AriesRobotNews/3) on how to secure your group.
+The support group chat is at @AriesSupportchat. Support Channel @AriesRobotNews
+
+"""
 
 """
 
